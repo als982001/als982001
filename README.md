@@ -37,6 +37,7 @@
 <br />
 <br />
 
-<h3>🤓 백준</h3><br />
+<h3>🤓 기타</h3><br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 </div>
