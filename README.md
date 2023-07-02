@@ -5,9 +5,10 @@
 <br />
 
 <h3>🙋 Introduction</h3>
-<p>안녕하세요. 점점 강해지는 개발자, 주재민입니다.</p>
-<p>현재는 프론트 위주로 공부중이지만, 최종 목표는 풀스택 개발자입니다!</p>
+<p>안녕하세요. 점점 강해지는 개발자, 주재민입니다.\n현재는 프론트 위주로 공부중이지만, 최종 목표는 풀스택 개발자입니다!</p>
 
+<br />
+<br />
 
 <h3> 👩🏻‍💻 Main Techs </h3><br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=ffffff" height="25px" />
