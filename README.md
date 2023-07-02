@@ -1,8 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2ECCFA&height=300&section=header&text=Jaemin&fontSize=80)
-
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=2ECCFA&height=300&section=header&text=Jaemin&fontSize=80)
+
 <br />
+
+<h3>🙋 Introduction</h3>
+<p>안녕하세요. 점점 강해지는 개발자, 주재민입니다.</p>
+<p>현재는 프론트 위주로 공부중이지만, 최종 목표는 풀스택 개발자입니다!</p>
+
+
 <h3> 👩🏻‍💻 Main Techs </h3><br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=ffffff" height="25px" />
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=ffffff" height="25px" />
@@ -38,7 +44,10 @@
 <br />
 
 <h3>🤓 기타</h3><br />
-</div>
 
 ![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=als982001&theme=dark&show_icons=true)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als982001)](https://solved.ac/als982001)
+
+</div>
