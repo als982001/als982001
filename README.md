@@ -38,6 +38,7 @@
 <br />
 
 <h3>🤓 기타</h3><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 </div>
+
+![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=als982001&theme=dark&show_icons=true)
+
