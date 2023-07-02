@@ -4,13 +4,29 @@
 
 <br />
 <h3> 👩🏻‍💻 Main Techs </h3><br />
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=plastic&logo=nodedotjs&logoColor=ffffff"/>
 
 <br />
 <br />
 <br />
 
 <h3>📚 Library</h3><br />
+<img src="https://img.shields.io/badge/redux-764ABC?style=plastic&logo=redux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/axios-5A29E4?style=plastic&logo=axios&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/reacthookform-EC5998?style=plastic&logo=reacthookform&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/reactrouter-CA4245?style=plastic&logo=reactrouter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=plastic&logo=reactquery&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styledcomponents&logoColor=ffffff"/>
+
+
+
+
 
 <br />
 <br />
@@ -23,7 +39,7 @@
 <br />
 
 <h3>🤓 백준</h3><br />
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als982001)](https://solved.ac/als982001)
 
+![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=als982001&show_icons=true&theme=radical)
 
 </div>
