@@ -47,6 +47,8 @@
 
 <h3>🤓 기타</h3><br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als982001&layout=compact&theme=tokyonight)
+
 ![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=als982001&theme=dark&show_icons=true)
 
 [![Solved.ac
