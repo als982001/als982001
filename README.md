@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=ffffff" height="25px" />
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=plastic&logo=nodedotjs&logoColor=ffffff" height="25px" />
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=plastic&logo=nextjs&logoColor=ffffff" height="25px" />
+<img src="https://img.shields.io/badge/sql-4479A1?style=plastic&logo=mysql&logoColor=ffffff" height="25px" /> 
 
 <br />
 <br />
